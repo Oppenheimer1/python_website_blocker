@@ -1,6 +1,6 @@
 ''' 
 This application writes to the hosts file and blocks a user from being able to access sites which are listed
-in the website_list section during normal business hours.
+in the website_list section during normal business hours or during the hours you decide.
 '''
 
 import time
@@ -9,7 +9,6 @@ from datetime import datetime as dt
 '''This is the host_path used for a mac computer
    For a Windows computer change the hosts_path to:
    hosts_path =r"C:\Windows\System32\drivers\etc\hosts" 
-
 '''
 hosts_path="/etc/hosts"
 redirect="127.0.0.1"
