@@ -1,6 +1,6 @@
 ''' 
 This application writes to the hosts file and blocks a user from being able to access sites which are listed
-in the website_list section during normal business hours. 
+in the website_list section during normal business hours..
 '''
 
 import time
