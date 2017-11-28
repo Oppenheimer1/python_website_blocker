@@ -1,1 +1,1 @@
-## A Website Blocker application that blocks the websites you put on a restricted listed during normal business hours. Built with Python.
+## A Website Blocker application built with Python that blocks the websites you put on a restricted listed during normal business hours.
